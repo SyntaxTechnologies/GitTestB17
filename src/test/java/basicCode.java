@@ -9,5 +9,17 @@ public class basicCode {
  System.out.println("Abracdbraaa  ");
  System.out.println("Abracdbraaa  ");
  System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
+ System.out.println("Abracdbraaa  ");
     }
 }
